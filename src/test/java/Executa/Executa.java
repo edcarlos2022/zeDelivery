@@ -106,6 +106,11 @@ public class Executa {
 		metodos.fecharNavegador();
 
 	}
+	
+	@Test
+	public void ct11EvidenciasDeTestes() {
+		System.out.println("aqui estão todas as evidencias");
+	}
 
 }
 
