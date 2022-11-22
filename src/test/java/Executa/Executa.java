@@ -102,8 +102,6 @@ public class Executa {
 		metodos.abrirPageProduto();
 		metodos.scrool();
 		metodos.clicarProdutoNao();
-		// metodos.poupUp();
-		//metodos.validarTexto(el.validarMsgPage404, el.validarMsgPage404text);
 		metodos.screenShot("Evidencia Menor de idade");
 		metodos.fecharNavegador();
 
